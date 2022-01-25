@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @1RETR01
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on... 
+- 📫 How to reach me ...
+
